@@ -3,7 +3,7 @@ Bing Maps Layer for leaflet v0.7. This plugin is created by following [leaflet-b
 
 By default this plugin doesn't work on IE. If you want it to work, then add the following to your webpage:
 ```html
-<!--[if IE]--><script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Promise"></script><![endif]-->
+<!--[if IE]--><script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Promise"></script><!--[endif]-->
 ```
 
 [Here is a link](https://github.com/mertemin/leaflet-bing) to the plugin for leaflet 1.0.
